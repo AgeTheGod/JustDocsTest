@@ -1,3 +1,7 @@
+---
+title: Nested Page
+layout: default
+---
 #   Nested Page
 
 A nested page weith some Mermaid test diagrams

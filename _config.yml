@@ -1,6 +1,10 @@
 title: Just the Docs Test Pages
 description: Test pages for configurting Just The Docs to render Mermaid diagrams correctly
 theme: just-the-docs
+
+nav_enabled: true
+heading_anchors: true
+
 #
 #  url: https://just-the-docs.github.io
 #
