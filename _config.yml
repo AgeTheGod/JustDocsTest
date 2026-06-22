@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#  title: Just the Docs Template
+#  description: A starter template for a Jeykll site using the Just the Docs theme!
+#  theme: just-the-docs
+#
+#  url: https://just-the-docs.github.io
+#
+#  aux_links:
+#    Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#
+# Mermaid configuration : Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+mermaid:
+  version: "11.15.0"
