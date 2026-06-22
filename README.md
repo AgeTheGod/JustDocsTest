@@ -1,6 +1,6 @@
 # just-the-docs-template Test
 
-[Original Setup Text](SetupText.md) plus don;t forgert to enable GitHub pages publication in GitHub Settings
+...plus don't forget to enable GitHub pages publication in GitHub Settings
 
 Test for Mermaid Class Diagram
 
