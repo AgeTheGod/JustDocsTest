@@ -1,8 +1,14 @@
-# just-the-docs-template Test
+---
+title: Home
+layout: home
+---
+#   Just The Docs Test Homepage
 
-...plus don't forget to enable GitHub pages publication in GitHub Settings
+- This document should contain just the overview text and optionally entry points to significant other files.
+- The "Home" title and layout are required to ensure that this file is picked by as the entry point for the actiual GitHub Pages to render correctly
+- All other pages should have their own front-matter to be included in the generated Contents
 
-Test for Mermaid Class Diagram
+##  Test for Mermaid Class Diagram
 
 ```mermaid
 classDiagram 
@@ -21,3 +27,5 @@ classDiagram
 
 %%    Society <|-- GeroPoliticalGroup : is a type of
 ```
+
+[Nested Diagram Test Page](NestedPage.md)
