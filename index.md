@@ -31,6 +31,8 @@ classDiagram
 %%    Society <|-- GeroPoliticalGroup : is a type of
 ```
 
+[Nested Diagram Test Page](NestedPage.md)
+
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
